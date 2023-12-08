@@ -15,5 +15,3 @@
   +1               # Increment the counter
 )(≠□"ZZZ"⋅⋅∘)
 ⊙(;;;;) # Leave just the counter
----
----
