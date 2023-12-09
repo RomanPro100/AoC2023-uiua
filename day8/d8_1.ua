@@ -1,3 +1,4 @@
+# 0.6.1
 &fras"day8/d8.txt"
 # &fras"day8/example8.txt"
 ⊜□≠@\n. # Split into lines
