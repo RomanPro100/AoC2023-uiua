@@ -15,8 +15,8 @@ WindowByCorners ← (
   ⊚=@#                 # Get galaxies' coords
 | ¤⊞↥∩FillEmptyRows⊃∘⍉ # Fill empty lines with 1.000.000
 )
-⊠⊟.             # Get all galaxy pairs (coords of galaxies in each pair) 
-/(⊂∩°□)≡(□↙)⇡⧻. # Remove duplicate coords
+⊠⊟.         # Get all galaxy pairs (coords of galaxies in each pair)
+∧(⊂↙)⇡⧻.:[] # Remove duplicate coords
 # For each pair:
 ≡(
   WindowByCorners   # Crop an image by galaxies' coords
