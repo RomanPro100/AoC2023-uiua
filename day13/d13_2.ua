@@ -12,10 +12,7 @@ ReflectionIndex ← (
 
 ≡(
   ⍉.°□
-  ∩(
-    ReflectionIndex¤
-    ◿⊙+,
-  )
+  ∩(◿⊙+,ReflectionIndex¤)
   (×100|⋅∘)=0.
 )
 /+
