@@ -5,5 +5,5 @@ Load ← /+×⊃(+1⇌⇡⧻)≡(/+=@O)
 # &fras"day14/example.txt"
 ⊜∘≠@\n.
 
-Tilt
+TiltNorth
 Load
